@@ -8,6 +8,8 @@ public class Main {
 		
 		System.out.println("absha");
 		
+		System.out.println("adios");
+		
 	}
 
 }
